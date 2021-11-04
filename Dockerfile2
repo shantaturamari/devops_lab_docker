@@ -1,0 +1,2 @@
+FROM ubuntu:20.04
+RUN echo "Hi, creating new docker file to test"
